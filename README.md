@@ -1,4 +1,4 @@
-![MasterHead]("https://www.vecteezy.com/vector-art/829812-binary-code-banner")
+![MasterHead](https://www.vecteezy.com/vector-art/829812-binary-code-banner)
 ![](https://komarev.com/ghpvc/?username=MuhammedIkbalAKGUNDOGDU&color=blue)
 <div align="center">
  <a href="https://github.com/CagatayAkkas">
