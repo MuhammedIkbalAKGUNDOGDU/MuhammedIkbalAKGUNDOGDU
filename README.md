@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Github%20Banner.jpg)
+![MasterHead](https://as1.ftcdn.net/v2/jpg/01/94/01/00/1000_F_194010093_9tC5JNVsiEOlVDs2F5Y6d0paYrdWTdbT.jpg)
 ![](https://komarev.com/ghpvc/?username=MuhammedIkbalAKGUNDOGDU&color=blue)
 <div align="center">
  <a href="https://github.com/CagatayAkkas">
