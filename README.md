@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Computer Engineering**
 
-- 📫 How to reach me **muhammedikbalcmp@gmail.com@gmail.com**
+- 📫 How to reach me **muhammedikbalcmp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
