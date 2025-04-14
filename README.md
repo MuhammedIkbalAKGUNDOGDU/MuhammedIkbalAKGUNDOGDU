@@ -1,4 +1,3 @@
-![MasterHead](https://www.digitalaffinity.co.uk/images/code.jpg)
 
 
 
