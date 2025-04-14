@@ -2,11 +2,7 @@
 
 
 
-<h3 align="left">&nbsp; A passionate Web3 developer from Türkiye</h3>
-
-- 🔭 I’m currently working on **React and React Native**
-
-- 💬 Ask me about **Computer Engineering**
+<h3 align="left">&nbsp; A passionate developer from Türkiye</h3>
 
 - 📫 How to reach me **muhammedikbalcmp@gmail.com**
 
